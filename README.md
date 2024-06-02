@@ -1,5 +1,4 @@
-# Mental Omega 3.3.6 
-
+# Mental Omega 3.3.6 Coop Missions, but it's single-player
 **Cooperative** mission files (`.map`) modified to support **single** player mode.
 
 Only some cooperative missions has been modified, see [Progress](#progress) for more details.
