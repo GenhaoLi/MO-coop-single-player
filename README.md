@@ -25,7 +25,7 @@ Only some cooperative missions has been modified, see [Progress](#progress) for 
 - Soviet Union
     - [x] Needlehead  
     - [x] Burned Alive  
-    - [ ] Role Reversal  
+    - [x] Role Reversal  
     - [ ] Ravages of War  
     - [ ] Lights Out  
     - [ ] Thunder God
